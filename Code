@@ -1,5 +1,5 @@
 #include <iostream>
-#include "/home/StGermain/documents/code/packages/colors.h"
+#include "/public/colors.h"
 #include <cmath>
 #include <vector>
 #include <algorithm>
